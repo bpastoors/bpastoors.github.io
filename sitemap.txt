@@ -1,2 +1,2 @@
-http://bpastoors.com/index.html
-http://bpastoors.com/resume.html
+https://bpastoors.com/index.html
+https://bpastoors.com/resume.html
